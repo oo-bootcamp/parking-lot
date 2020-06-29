@@ -5,7 +5,6 @@ import cc.oobootcamp.parkinglot.exception.ParkingLotFullException;
 import java.util.Comparator;
 
 public class SuperParkingBoy extends ParkingBoy {
-
     public SuperParkingBoy(ParkingLot... parkingLot) {
         super(parkingLot);
     }
