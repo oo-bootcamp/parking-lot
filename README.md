@@ -1,8 +1,5 @@
 # OO Bootcamp @ Parking Lot
 
-[![Build Status](https://travis-ci.org/oo-bootcamp/parking-lot.svg?branch=master)](https://travis-ci.org/oo-bootcamp/parking-lot)
- 
-
 ## 开发环境
  - JDK1.8+
 
